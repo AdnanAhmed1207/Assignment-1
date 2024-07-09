@@ -105,8 +105,14 @@ nav{
     font-weight: 150;
 }
 .R{
-    margin-top: 100px;
+    margin-top: 200px;
     font-size: 34px;
     text-align: center;
     font-weight: bold;
+}
+.t{
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+    font-weight: 150;
 }
