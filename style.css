@@ -1,0 +1,106 @@
+
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+
+
+nav{
+    display: flex;
+    font-style: ;
+}
+
+
+
+.image{
+    background-image: url(Hero-bg.png);
+    margin-top: 50px ;
+    margin-bottom: 50px;
+    height: 750px;
+}
+.center{
+    height: 250px;
+    width: 250px;
+    margin-left: 43%;
+    margin-top: 2%;
+}
+.text{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.second{
+    text-align: center;
+    text-align: justify;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-weight: 150;
+}
+.button{
+    text-align: center;
+    font-weight: 800;
+    font-size: x-large;
+}
+.third{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+    margin-top: 100px;
+}
+.web{
+    text-align: center;
+    text-align: justify;
+    font-size: 16px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-weight: 150;
+}
+.fourth{margin-left: 500px;
+    margin-top: 60px;
+    font-size: 24px;
+    font-weight: 200;
+    text-align: left;
+
+}
+.fifth{margin-left: 500px;
+     font-weight: 150;
+     text-align: left;
+     text-align: justify;
+
+
+}
+.A{
+    text-align: right;
+    font-weight: 200;
+    font-size: 24px;
+    margin-right: 500px;
+    margin-top: 60px;
+}
+.B{
+    margin-right: 500px;
+    text-align: justify;
+    text-align: right;
+    font-weight: 150;
+}
+.D{
+    margin-left: 500px;
+    margin-top: 60px;
+    font-weight: 200;
+    font-size: 24px;
+    text-align: left;
+}
+.ab{
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 200px;
+}
+.abc{
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: justify;
+    font-weight: 150;
+}
