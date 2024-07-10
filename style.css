@@ -231,7 +231,7 @@ nav ul li { list-style: none;}
 }
 .bb{
     background-image: url(handshake.jpg);
-    height: 650px;width: 1140px;
+    height: 650px;width: 1540px;
     border-radius: 16px;
     margin-top: 100px;
 }
@@ -258,3 +258,43 @@ nav ul li { list-style: none;}
     border-radius: 8px;
     border-color: white;
 }
+.bottom{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+.ul{
+    display: flex;
+    gap: 24px;list-style: none;
+    margin-right: 165px;
+}
+.Open{
+    margin-left: 165px;margin-top: 25px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.mm{
+    background-color: white;
+    height: 220px; width: 490px;
+    margin-left: 500px;margin-top: 100px;
+    text-align: justify;
+}
+.new{ display: flex;
+
+justify-content: space-between;
+}
+.IMAGE{
+    margin-top: 120px;margin-right: 480px;
+}
+.two{
+    text-align: justify;
+    background-color: white;
+    height: 220px; width: 490px;
+    margin-right: 500px; margin-top: 100px;
+    
+    
+}
+.newsecond{ display: flex;
+justify-content: space-between;}
+.IU{margin-top: 100px; margin-left: 480px;}
+
